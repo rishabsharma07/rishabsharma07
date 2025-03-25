@@ -1,6 +1,7 @@
 ## Hi there 👋
 # This side Rishab
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabsharma07&label=Profile%20views&color=0e75b6&style=flat" alt="rishabsharma07" /> </p>
 <!--
 **rishabsharma07/rishabsharma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
